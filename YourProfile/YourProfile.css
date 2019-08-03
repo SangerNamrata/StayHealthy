@@ -1,0 +1,55 @@
+﻿.YourProfile
+{
+    margin-left:35%;
+    font-size:25px;
+    color:rgb(44, 128, 35);
+    font-family:'Verdana';
+}
+.box1,.box2,.box3,.box4,.box5
+{
+    margin-top:20px;
+    margin-left:35%;
+    box-sizing:border-box;
+    padding:10px 10px 20px 10px;
+    width:30%;
+    border: 3px solid ;
+    font-family:Verdana;
+    box-shadow:0 5px 10px rgba(0,0,0,.7);
+    border:1px solid rgb(44, 128, 35);
+    border-bottom:2px solid rgb(44, 128, 35);
+    font-family:Verdana;
+    border-radius:5px;
+}
+.EditClass
+{
+    margin-left:270px;
+    margin-top:10px;
+    border:1px solid rgb(44, 128, 35);
+    box-shadow:5px rgb(44, 128, 35);
+    background:rgb(44, 128, 35);
+    padding:3px 3px 3px 3px;
+    width:40px;
+    color:#FFFFFF;
+    font-family:'Verdana';
+    border-radius:5px;
+    cursor:grab;
+}
+.SaveButton
+{
+    margin-top:20px;
+    box-sizing:border-box;
+    box-shadow:0 5px 10px rgb(44, 128, 35);
+    font-family:'Verdana';
+    margin-left:61%;
+    width:50px;
+    background:rgb(44, 128, 35);
+    color:#FFFFFF;
+    margin-bottom:40px;
+    padding:3px 3px 3px 3px;
+    border-radius:5px;
+}
+.text
+{
+    border-bottom :2px solid  rgb(44,128,35);
+    width:270px;
+}
