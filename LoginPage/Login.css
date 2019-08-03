@@ -1,0 +1,58 @@
+﻿.Login
+{
+     font-family:'Verdana';
+     margin:0;
+     padding:0;
+     top:50%;
+     left:50%;
+     transform:translate(-50%,-50%);
+     width:400px;
+     position:absolute;
+     padding:40px;
+     box-sizing:border-box;
+     box-shadow:0 5px 10px rgba(0,0,0,.7);
+     border:1px solid rgba(0,0,0,.1);
+     font-size:15px;
+}
+.InputType 
+{
+    font-family:'Verdana';
+    padding:10px 0;
+    margin-bottom:30px;
+    width:100%;
+    box-sizing:border-box;
+    box-shadow:none;
+    outline:none;
+    border:none;     
+    border-bottom:2px solid rgb(44, 128, 35);
+}
+.LogIn
+{
+  font-family:'Verdana';
+  border:none;
+  cursor:pointer;
+  background:rgb(44, 128, 35);
+  color:#FFFFFF;
+  margin-bottom:5px;
+  width:100%;
+  padding:10px 10px 10px 10px;
+  font-size:15px;
+  font-family:Verdana;
+    
+}
+.LoginLabel
+{
+    font-size:25px;
+    font-family:'Verdana';
+    margin-top:3px;
+}
+a,a:hover,a:active,a:visited
+{
+    color:rgb(44, 128, 35);
+    font-family:'Verdana';   
+}
+.Message
+{
+    font-size:15px;
+     font-family:'Verdana';   
+}

@@ -1,0 +1,61 @@
+﻿.box
+{
+    font-family:'Verdana';
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:400px;
+    position:absolute;
+    padding:40px;
+    box-sizing:border-box;
+    box-shadow:0 5px 10px rgba(0,0,0,.7);
+    border:1px solid rgba(0,0,0,.1);
+    font-size:15px;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.InputType 
+{
+    font-family:'Verdana';
+    padding:10px 0;
+    margin-bottom:30px;
+    width:95%;
+    box-sizing:border-box;
+    box-shadow:none;
+    outline:none;
+    border:none;     
+    border-bottom:2px solid rgb(44, 128, 35);
+}
+.Labelll
+{
+    font-size:25px;
+    font-family:'Verdana';
+}
+.Submit
+{
+  border:none;
+  cursor:pointer;
+  background:rgb(44, 128, 35);
+  color:#FFFFFF;
+  margin-bottom:5px;
+  width:100%;
+  padding:10px 10px 10px 10px;
+  font-size:15px;
+  font-family:'Verdana';
+}
+.Message
+{
+    font-size:12px;
+    font-family:'Verdana';
+ 
+}
+a,a:visited,a:active,a:hover
+{
+   color:rgb(44, 128, 35);
+   font-family:'Verdana';
+}
+.ErrorMessage
+{
+    font-size:12px;
+    color:red;
+}
